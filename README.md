@@ -68,7 +68,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RagabCodes&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RagabCodes&show_icons=true&theme=radical" background-color:"transparent" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RagabCodes&layout=compact&theme=radical" />
   <img src="https://streak-stats.demolab.com?user=RagabCodes&theme=radical" alt="GitHub Streak" />
 </p>
