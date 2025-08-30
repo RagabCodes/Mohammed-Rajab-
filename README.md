@@ -40,23 +40,77 @@ style="background: linear-gradient(135deg, #1f2937, #3b82f6); border: 2px solid 
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </p>
 
+ <p align="center">
+  📌 <b>Featured Projects</b>
+</p>
 
-📌 Featured Projects
-​<br>
-​✅ To-Do List
-​Description: A simple and interactive task manager to help you stay organized.
-Tech Stack: HTML, CSS, JavaScript
-Link: View on GitHub
-​<br>
-​🌐 Browser Extensions Manager UI
-​Description: A clean and organized user interface to manage your browser extensions.
-Tech Stack: HTML, CSS، JavaScript
-Link: View on GitHub
-​<br>
-​🔗 C-Link Website
-​Description: An educational platform featuring 750+ AI tools and resources.
-Tech Stack: PHP, CSS, JavaScript
-Link: View on GitHub
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
+
+<style>
+.project-card {
+  background: linear-gradient(135deg,#FFDEE9,#B5FFFC);
+  border-radius: 15px;
+  padding: 20px;
+  width: 320px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+  text-align: left;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.project-card:hover {
+  transform: translateY(-10px) scale(1.03);
+  box-shadow: 0 12px 25px rgba(0,0,0,0.35);
+}
+
+.project-card h3 a {
+  text-decoration: none;
+  color: #333;
+}
+
+/* Badge Hover Animation */
+.project-badge img {
+  transition: transform 0.3s ease, filter 0.3s ease;
+  margin-right: 5px;
+}
+.project-badge img:hover {
+  transform: scale(1.2) rotate(10deg);
+  filter: brightness(1.3);
+}
+</style>
+
+<!-- To-Do List Card -->
+<div class="project-card">
+  <h3>✅ <a href="https://github.com/RagabCodes/to-do-list">To-Do List</a></h3>
+  <p>A simple and interactive task manager to help you stay organized.</p>
+  <p class="project-badge">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  </p>
+</div>
+
+<!-- Browser Extensions Manager UI Card -->
+<div class="project-card" style="background: linear-gradient(135deg,#C9FFBF,#FFAFBD);">
+  <h3>🌐 <a href="https://github.com/RagabCodes/browser-extensions-manager-ui-main">Browser Extensions Manager UI</a></h3>
+  <p>A clean and organized user interface to manage your browser extensions.</p>
+  <p class="project-badge">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  </p>
+</div>
+
+<!-- C-Link Website Card -->
+<div class="project-card" style="background: linear-gradient(135deg,#A1C4FD,#C2E9FB);">
+  <h3>🔗 <a href="https://github.com/RagabCodes/C-link-website">C-Link Website</a></h3>
+  <p>An educational platform aggregating over 750 AI tools across different fields, more than 50 global educational websites, and free courses totaling over 10TB of content.</p>
+  <p class="project-badge">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  </p>
+</div>
+
+</div>
 
 📊 GitHub Stats
 ​<p align="center">
