@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>👋 Hey Everyone, I'm Mohamed Ragab</h1>
+  <h1 align="center">👋 Hey Everyone, I'm Mohamed Ragab</h1>
   <h3>An aspiring web developer, interested in programming, design, robotics and languages.</h3>
 </p>
 
